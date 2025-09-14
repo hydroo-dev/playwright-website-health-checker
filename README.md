@@ -18,7 +18,6 @@ Playwright Website Health Checker is an automated tool that crawls your website,
 
 ## **Installation**
 1. Clone the repository:
-```bash
 git clone <your-repo-url>
 cd <repo-folder>
 
