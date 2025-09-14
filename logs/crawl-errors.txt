@@ -1,0 +1,197 @@
+2025-09-14T07:46:37.359Z - http://localhost/ecommerce_demo/index.php : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/index.php
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/index.php", waiting until "networkidle"[22m
+
+2025-09-14T07:46:37.367Z - http://localhost/ecommerce_demo/cart.php : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/cart.php
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/cart.php", waiting until "networkidle"[22m
+
+2025-09-14T07:46:37.374Z - http://localhost/ecommerce_demo/# : HTTP unknown
+2025-09-14T07:46:37.426Z - http://localhost/ecommerce_demo/products.php?category=men_clothing : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/products.php?category=men_clothing
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/products.php?category=men_clothing", waiting until "networkidle"[22m
+
+2025-09-14T07:46:37.434Z - http://localhost/ecommerce_demo/products.php?category=women_clothing : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/products.php?category=women_clothing
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/products.php?category=women_clothing", waiting until "networkidle"[22m
+
+2025-09-14T07:46:42.220Z - http://localhost/ecommerce_demo/products.php?category=children_clothing# : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/products.php?category=children_clothing#
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/products.php?category=children_clothing#", waiting until "networkidle"[22m
+
+2025-09-14T07:46:42.227Z - http://localhost/ecommerce_demo/product.php?id=60 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=60
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=60", waiting until "networkidle"[22m
+
+2025-09-14T07:46:43.122Z - http://localhost/ecommerce_demo/product.php?id=58 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=58
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=58", waiting until "networkidle"[22m
+
+2025-09-14T07:46:43.127Z - http://localhost/ecommerce_demo/product.php?id=57 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=57
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=57", waiting until "networkidle"[22m
+
+2025-09-14T07:46:43.967Z - http://localhost/ecommerce_demo/product.php?id=55 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=55
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=55", waiting until "networkidle"[22m
+
+2025-09-14T07:46:43.974Z - http://localhost/ecommerce_demo/product.php?id=54 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=54
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=54", waiting until "networkidle"[22m
+
+2025-09-14T07:46:44.834Z - http://localhost/ecommerce_demo/product.php?id=52 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=52
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=52", waiting until "networkidle"[22m
+
+2025-09-14T07:46:44.840Z - http://localhost/ecommerce_demo/product.php?id=51 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=51
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=51", waiting until "networkidle"[22m
+
+2025-09-14T07:46:45.693Z - http://localhost/ecommerce_demo/product.php?id=49 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=49
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=49", waiting until "networkidle"[22m
+
+2025-09-14T07:46:45.699Z - http://localhost/ecommerce_demo/product.php?id=48 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=48
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=48", waiting until "networkidle"[22m
+
+2025-09-14T07:46:46.534Z - http://localhost/ecommerce_demo/product.php?id=46 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=46
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=46", waiting until "networkidle"[22m
+
+2025-09-14T07:46:46.538Z - http://localhost/ecommerce_demo/product.php?id=45 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=45
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=45", waiting until "networkidle"[22m
+
+2025-09-14T07:46:47.399Z - http://localhost/ecommerce_demo/product.php?id=43 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=43
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=43", waiting until "networkidle"[22m
+
+2025-09-14T07:46:47.406Z - http://localhost/ecommerce_demo/product.php?id=42 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=42
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=42", waiting until "networkidle"[22m
+
+2025-09-14T07:46:48.208Z - http://localhost/ecommerce_demo/product.php?id=40 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=40
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=40", waiting until "networkidle"[22m
+
+2025-09-14T07:46:48.213Z - http://localhost/ecommerce_demo/product.php?id=39 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=39
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=39", waiting until "networkidle"[22m
+
+2025-09-14T07:46:49.106Z - http://localhost/ecommerce_demo/product.php?id=37 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=37
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=37", waiting until "networkidle"[22m
+
+2025-09-14T07:46:49.111Z - http://localhost/ecommerce_demo/product.php?id=36 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=36
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=36", waiting until "networkidle"[22m
+
+2025-09-14T07:46:49.969Z - http://localhost/ecommerce_demo/product.php?id=34 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=34
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=34", waiting until "networkidle"[22m
+
+2025-09-14T07:46:49.975Z - http://localhost/ecommerce_demo/product.php?id=33 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=33
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=33", waiting until "networkidle"[22m
+
+2025-09-14T07:46:50.746Z - http://localhost/ecommerce_demo/product.php?id=31 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=31
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=31", waiting until "networkidle"[22m
+
+2025-09-14T07:46:50.750Z - http://localhost/ecommerce_demo/product.php?id=30 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=30
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=30", waiting until "networkidle"[22m
+
+2025-09-14T07:46:51.606Z - http://localhost/ecommerce_demo/product.php?id=28 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=28
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=28", waiting until "networkidle"[22m
+
+2025-09-14T07:46:51.612Z - http://localhost/ecommerce_demo/product.php?id=27 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=27
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=27", waiting until "networkidle"[22m
+
+2025-09-14T07:46:52.484Z - http://localhost/ecommerce_demo/product.php?id=25 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=25
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=25", waiting until "networkidle"[22m
+
+2025-09-14T07:46:52.492Z - http://localhost/ecommerce_demo/product.php?id=24 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=24
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=24", waiting until "networkidle"[22m
+
+2025-09-14T07:46:53.302Z - http://localhost/ecommerce_demo/product.php?id=22 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=22
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=22", waiting until "networkidle"[22m
+
+2025-09-14T07:46:53.310Z - http://localhost/ecommerce_demo/product.php?id=21 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=21
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=21", waiting until "networkidle"[22m
+
+2025-09-14T07:46:54.165Z - http://localhost/ecommerce_demo/product.php?id=19 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=19
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=19", waiting until "networkidle"[22m
+
+2025-09-14T07:46:54.172Z - http://localhost/ecommerce_demo/product.php?id=18 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=18
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=18", waiting until "networkidle"[22m
+
+2025-09-14T07:46:55.080Z - http://localhost/ecommerce_demo/product.php?id=16 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=16
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=16", waiting until "networkidle"[22m
+
+2025-09-14T07:46:55.085Z - http://localhost/ecommerce_demo/product.php?id=15 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=15
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=15", waiting until "networkidle"[22m
+
+2025-09-14T07:46:55.914Z - http://localhost/ecommerce_demo/product.php?id=13 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=13
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=13", waiting until "networkidle"[22m
+
+2025-09-14T07:46:55.918Z - http://localhost/ecommerce_demo/product.php?id=12 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=12
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=12", waiting until "networkidle"[22m
+
+2025-09-14T07:46:56.837Z - http://localhost/ecommerce_demo/product.php?id=10 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=10
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=10", waiting until "networkidle"[22m
+
+2025-09-14T07:46:56.842Z - http://localhost/ecommerce_demo/product.php?id=9 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=9
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=9", waiting until "networkidle"[22m
+
+2025-09-14T07:46:57.736Z - http://localhost/ecommerce_demo/product.php?id=7 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=7
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=7", waiting until "networkidle"[22m
+
+2025-09-14T07:46:57.742Z - http://localhost/ecommerce_demo/product.php?id=6 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=6
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=6", waiting until "networkidle"[22m
+
+2025-09-14T07:46:58.561Z - http://localhost/ecommerce_demo/product.php?id=4 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=4
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=4", waiting until "networkidle"[22m
+
+2025-09-14T07:46:58.566Z - http://localhost/ecommerce_demo/product.php?id=3 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?id=3
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?id=3", waiting until "networkidle"[22m
+
+2025-09-14T07:47:00.264Z - http://localhost/ecommerce_demo/products.php?category=accessories : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/products.php?category=accessories
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/products.php?category=accessories", waiting until "networkidle"[22m
+
+2025-09-14T07:47:02.178Z - http://localhost/ecommerce_demo/product.php?add=2 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?add=2
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?add=2", waiting until "networkidle"[22m
+
+2025-09-14T07:47:03.726Z - http://localhost/ecommerce_demo/product.php?add=5 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?add=5
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?add=5", waiting until "networkidle"[22m
+
+2025-09-14T07:47:05.312Z - http://localhost/ecommerce_demo/product.php?add=8 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?add=8
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?add=8", waiting until "networkidle"[22m
+
+2025-09-14T07:47:06.991Z - http://localhost/ecommerce_demo/product.php?add=11 : page.goto: net::ERR_ABORTED at http://localhost/ecommerce_demo/product.php?add=11
+Call log:
+[2m  - navigating to "http://localhost/ecommerce_demo/product.php?add=11", waiting until "networkidle"[22m
+

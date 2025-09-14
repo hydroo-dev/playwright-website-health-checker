@@ -1,0 +1,8 @@
+2025-09-14T07:47:01.403Z - http://localhost/ecommerce_demo/product.php?add=1 : HTTP 302
+2025-09-14T07:47:02.192Z - http://localhost/ecommerce_demo/product.php?add=3 : HTTP 302
+2025-09-14T07:47:02.936Z - http://localhost/ecommerce_demo/product.php?add=4 : HTTP 302
+2025-09-14T07:47:03.765Z - http://localhost/ecommerce_demo/product.php?add=6 : HTTP 302
+2025-09-14T07:47:04.508Z - http://localhost/ecommerce_demo/product.php?add=7 : HTTP 302
+2025-09-14T07:47:05.325Z - http://localhost/ecommerce_demo/product.php?add=9 : HTTP 302
+2025-09-14T07:47:06.156Z - http://localhost/ecommerce_demo/product.php?add=10 : HTTP 302
+2025-09-14T07:47:07.027Z - http://localhost/ecommerce_demo/product.php?add=12 : HTTP 302
